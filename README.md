@@ -40,11 +40,9 @@
 </p>
 ---
 
-### **📊 My GitHub Stats**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xseojungx&show_icons=true&theme=default&hide_border=true&count_private=true) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xseojungx&layout=compact&theme=default&hide_border=true)
-
+| 📊 GitHub Stats | 📌 Top Languages |
+|---|---|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xseojungx&show_icons=true&theme=default&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xseojungx&layout=compact&theme=default&hide_border=true) |
 ---
 
 ### 📫 Contact  
