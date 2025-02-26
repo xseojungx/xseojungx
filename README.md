@@ -8,24 +8,31 @@
 
 ---
 
-### **🚀 Tech Stack**  
-
-💻 **Front-end**  
 ### 🖥️ Tech Stack  
 
 #### 🎨 Front-end  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>  
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>  
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>  
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=TailwindCSS&logoColor=white"/>  
 
-🛠 **Back-end**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)  
+#### 🛠 Back-end  
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
 
-☁️ **DevOps & Tools**  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+#### ☁️ DevOps & Tools  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>  
 
 ---
 
@@ -33,28 +40,16 @@
 
 | 🌟 | 📊 GitHub Stats | 📌 Top Languages |
 |---|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xseojungx&show_icons=true&theme=blueberry&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubID&layout=compact&theme=blueberry&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xseojungx&show_icons=true&theme=blueberry&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xseojungx&layout=compact&theme=blueberry&hide_border=true) |
 
 ---
 
-### **🎨 Fun & Aesthetic**  
+### 📫 Contact  
 
 ✨ **깃허브 방문 뱃지**  
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubID&color=blue)  
-
-🐦 **Latest Tweet**  
-[![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterID?label=Follow%20Me&style=social)](https://twitter.com/YourTwitterID)  
+![Profile Views](https://komarev.com/ghpvc/?username=xseojungx&color=blue)  
 
 💌 **Let's Connect!**  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInID)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A73E8?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sjhan0814@gmail.com)  
 
----
 
-💙 **오늘도 즐거운 개발! Happy Coding! 🚀** 💙
-
----
-
-이제 `YourGitHubID`, `YourTwitterID`, `YourLinkedInID` 등을 네 정보에 맞게 바꾸면 돼!  
-원하는 추가 꾸밈이나 애니메이션 효과 넣고 싶으면 말해줘. ✨😊
