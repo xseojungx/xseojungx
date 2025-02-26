@@ -1,8 +1,8 @@
-### **💙 Welcome to My GitHub! 💙**  
-> **코드로 세상을 더 아름답게 만드는 중 ✨**  
+### **안녕하세요, 개발자 한서정입니다. **  
+
 
 🌱 **Who am I?**  
-- 📌 20대 개발자, 프론트엔드 & 백엔드 모두 경험 중  
+- 📌 20대 대학생 개발자, 프론트엔드 & 백엔드 모두 경험 중  
 - 💡 새로운 기술을 배우고 적용하는 걸 좋아해요!  
 - 🌏 해외 경험을 목표로 하는 글로벌 개발자 꿈나무 ✈️  
 
@@ -11,8 +11,10 @@
 ### **🚀 Tech Stack**  
 
 💻 **Front-end**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
+### 🖥️ Tech Stack  
+
+#### 🎨 Front-end  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
 
 🛠 **Back-end**  
@@ -31,7 +33,7 @@
 
 | 🌟 | 📊 GitHub Stats | 📌 Top Languages |
 |---|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubID&show_icons=true&theme=blueberry&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubID&layout=compact&theme=blueberry&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xseojungx&show_icons=true&theme=blueberry&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubID&layout=compact&theme=blueberry&hide_border=true) |
 
 ---
 
